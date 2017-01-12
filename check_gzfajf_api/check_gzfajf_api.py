@@ -7,7 +7,7 @@ import re
 by:willron
 '''
 __author__ = 'zxp'
-
+cici_cici
 URL = 'http://bzflh.szjs.gov.cn/TylhW/lhmcAction.do?method=queryYgbLhmcList'
 
 
